@@ -1,0 +1,9 @@
+a 1.0
+gamma 1.0
+dt 0.004
+nstep 500000
+KbT 1.0
+Lbond 1.0
+Kbond 1000.0
+Rcut 2.8
+print_to_pdb 5000
